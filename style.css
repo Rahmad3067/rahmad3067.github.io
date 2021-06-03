@@ -1,0 +1,279 @@
+* {
+  padding: 0;
+  margin: 0;
+  
+}
+body {
+    font-family: 'Poppins';
+}
+
+#header {
+  width: 100%;
+  height: 70px;
+  background-color: #0475ba;
+  display: flex;
+  align-items: center;
+}
+
+.first-nav {
+  list-style: none;
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: yellow;
+}
+
+.first-class {
+  padding: 40px;
+}
+
+.headname {
+  font-size: 20px;
+  padding-left: 10px;
+  color: white;
+}
+.headname:hover {
+  color: black;
+}
+
+ #profile-1 {
+  display: flex;
+  justify-content: center;
+}
+.img {
+  border-radius: 50%;
+  margin-top: 25px;
+}
+
+.info {
+  margin-top: 60px;
+  margin-right: 160px;
+}
+
+.info-2 {
+  margin-top: 17px;
+  font-size: 19px;
+  color: #0475ba;
+}
+
+#presentation {
+  height: 190px;
+  width: 100%;
+  background-color: #0475ba;
+  margin-top: 10px;
+  color: white;
+}
+
+
+
+
+.pre {
+
+    margin-top: 45px;
+    margin-left: 190px;
+}
+
+.name-tag3 {
+    margin-left: 150px;
+    padding-top: 20px;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.text-primary-1 p {
+    padding: 10px;
+}
+
+.text-primary {
+    color: #0475ba;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+
+
+.year-pr1 {
+  margin-bottom: 115px;
+}
+
+/* .year-1 {
+    padding-bottom: 98px;
+    font-size: 19px;
+}
+.year-2 {
+    font-size: 19px;
+} */
+
+#formation{
+    height: 190px;
+    width: 100%;
+    background-color: #0475ba;
+    color: white;
+    margin-top: 15px;
+}
+
+.container-formation {
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+
+.text-formation {
+    margin-top: 50px;
+}
+
+.text-fo-2 {
+    margin-top: 40px;
+}
+
+.text-primary9 {
+    font-size: 20px;
+}
+
+
+.date-formation {
+    margin-top: 115px;
+}
+
+
+.passions {
+    height: 110px;
+    width: 100%;
+    margin-top: 35px;
+}
+
+.passions-1 {
+    margin-left: 90px;
+}
+
+.text-22 {
+    font-size: 20px;
+    color: #0475ba;
+    margin-bottom: 20px;
+}
+
+
+.text-222 {
+    font-size: 17px;
+}
+
+
+.footer {
+    width: 100%;
+    height: 90px;
+    background-color: #0475ba;
+}
+
+
+
+.container-footer{
+    display: flex;
+    
+    padding: 35px;
+    
+}
+
+.footer li {
+    list-style: none;
+}
+
+
+.twit {
+    margin-left: 150px;
+}
+
+
+
+.container-contact {
+  padding-top: 150px;
+}
+
+
+
+.container-form-1 {
+  padding-top: 20px;
+  width: 100%;
+  height: 200px;
+  /* background-color: #0475ba; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+.firs-name {
+  padding-bottom: 30px;
+  
+}
+
+.firs-name input {
+  padding: 5px  4px;
+  border-radius: 50px;
+}
+
+.last-name input {
+  padding: 5px  4px;
+  border-radius: 50px;
+}
+
+.in-put {
+padding-top: 20px;
+padding-left: 120px;
+padding-bottom: 20px;
+}
+
+.in-put input { 
+  padding: 5px 20px;
+  font-size: 20px;
+  border-radius: 50px;
+  background-color: darkblue;
+  color: white;
+  
+}
+
+.in-put input:hover {
+  color: yellow;
+  background-color: teal;
+}
+
+
+.email {
+  margin-top: 30px;
+  margin-left: 45px;
+}
+
+.email input {
+  padding: 5px  4px;
+  border-radius: 50px;
+}
+
+
+.c-textarea {
+  padding-top: 40px;
+  padding-left: 60px;
+}
+
+
+/* Add your text area styles here */
+
+
+
+
+
+
+
+

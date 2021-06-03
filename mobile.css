@@ -1,0 +1,113 @@
+/* Mobile */
+
+@media(max-width: 500px) {
+    #header {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        height: 100px;
+
+        
+        
+    }
+
+    #header .headname {
+        font-size: 16px;
+        padding-top: 20px;
+        text-align: center;
+        margin-right: 25px;
+        
+    }
+
+    .first-class {
+        padding: 13px;
+    }
+
+    #profile-1 {
+        height: 450px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+
+    }
+    #profile-1 .info {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        margin-left: 160px;
+
+    }
+
+    #profile-1 .nametag {
+        font-size: 16px;
+    }
+
+    #presentation {
+        height: 200px;
+        width: 100%;
+        
+        
+        
+        
+    }
+
+    .name-tag3{
+        margin-left: 20px;
+    }
+    .pre {
+
+        margin-top: 20px;
+        margin-left: 20px;
+        font-size: 13px;
+    }
+    .text-primary {
+        font-size: 18px;
+    }
+    .mobile-size {
+        font-size: 12px;
+    }
+
+    /* needs to change in HTML with Div */
+
+     .year-pr1 {
+         margin-bottom: 152px;
+         padding-top: 20px;
+     }
+     .year-pr2 {
+         padding-bottom: 20px;
+     }
+
+
+    /* untill up there */
+
+    .text-formation {
+        margin-top: 10px;
+    }
+    .date-formation {
+        font-size: 14px;
+        margin-top: 82px;
+    }
+
+    .passions {
+        margin-top: 10px;
+
+    }
+
+    .container-footer {
+        padding: 10px;
+    }
+
+    .twit {
+        padding-right: 15px;
+    }
+
+
+    /* Add you mobile styles here for you text area */
+
+    
+    
+}
